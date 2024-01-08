@@ -1,4 +1,3 @@
 # Fresno-3d-Model
 
-## why tf are you reading this
-
+footage is cc0 so feel free to use
