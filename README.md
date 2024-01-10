@@ -1,5 +1,6 @@
 # Fresno-3d-Model
 
-footage and 3d model is cc0 so feel free to use
+Feel free to use the footage and 3D models
+Credit is apreciated :)
 
-also textures are cc0 (not by me)
+textures are cc0 (not by me)
